@@ -38,10 +38,10 @@ Then we combined all the clips and add the voiceover.
 __References__: 
 
 
+*__Jabberwokk__:https://vimeo.com/573533102
+
+
 *__Vadim Epstein Projcet__: https://github.com/eps696/aphantasia
-
-
-*__https://vimeo.com/573533102
 
 
 *"__Aphantasia__: is the inability to visualize mental images, the deprivation of visual dreams

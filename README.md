@@ -9,11 +9,11 @@ By:
 * Asmaa Alrefae (@AsmaaAlrefae)- AI expert
 
 
-__Goal__ : 
-To create a vedio story using AI.
+__Brief Description__ :
+Our goal was to create interactive story using AI. We tried to simulate what happens in our imagination when we read a story. We used a story titled "An Old Man Lived in the Village" to let the tool create a movie clip then we combined the clips and added the voiceover on the final result. It was up to the Aphantasia tool decide on what kind of image to create out of the story.
 
-
-We used __Text to Image tool that is Based on CLIP + FFT from Lucent and made by Vadim Epstein__ to create artificial artwork from the story __Old Man Lived in the Village__ , by feeding the tool with sentences and letting it create the of the final video.
+__Technologies Description__:
+We used Aphantasia __Text to Image tool that is Based on CLIP + FFT from Lucent and made by Vadim Epstein__ to create artificial artwork from the story __Old Man Lived in the Village__, by feeding the tool with sentences and letting it create the of the final video.
 
 The following sentences used generate the clips. The length for each clip was 0.12 seconds.
 
@@ -25,7 +25,12 @@ The following sentences used generate the clips. The length for each clip was 0.
 
 Then we combined all the clips and add the voiceover.
 
-* __Arabic Voiceover By Maha AlQroon__: https://youtu.be/UMedWFQqY4Q
-* __English Voiceover By Asmaa Alrefae__: https://youtu.be/5YVrcXaBURw
+*__Final Clip - Arabic Voiceover By Maha AlQroon__: https://youtu.be/UMedWFQqY4Q
+*__Final Clip - English Voiceover By Asmaa Alrefae__: https://youtu.be/5YVrcXaBURw
+*__Orignal story Link__: http://www.dailytenminutes.com/2018/07/1-old-man-lived-in-village-moral-stories.html
 
-__Orignal story Link__: http://www.dailytenminutes.com/2018/07/1-old-man-lived-in-village-moral-stories.html
+__References__: 
+*__Vadim Epstein Projcet__: https://github.com/eps696/aphantasia
+* https://vimeo.com/573533102
+* "Aphantasia is the inability to visualize mental images, the deprivation of visual dreams
+

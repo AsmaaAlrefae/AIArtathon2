@@ -13,7 +13,9 @@ __Goal__ :
 To create a vedio story using AI.
 
 
-We used __Text to Image tool that is Based on CLIP + FFT from Lucent and made by Vadim Epstein __ to create artificial artwork from the story _Old Man Lived in the Village_, by feeding the tool with sentences and letting it create the of the final video.
+We used __Text to Image tool that is Based on CLIP + FFT from Lucent and made by Vadim Epstein __  
+to create artificial artwork from a story titled _Old Man Lived in the Village_, 
+by feeding the tool with the story sentences and it creates multiple clips.
 
 The following sentences used generate the clips. The length for each clip was 0.12 seconds.
 
@@ -28,5 +30,5 @@ Then we combined all the clips and add the voiceover.
 * Arabic Voiceover: Maha AlQroon
 * English Voiceover: Asmaa Alrefae
 
-__Orignal story Link: 
+__Orignal story Link_ : 
 http://www.dailytenminutes.com/2018/07/1-old-man-lived-in-village-moral-stories.html

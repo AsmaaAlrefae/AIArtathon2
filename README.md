@@ -25,7 +25,7 @@ The following sentences used generate the clips. The length for each clip was 0.
 
 Then we combined all the clips and add the voiceover.
 
-* Arabic Voiceover: Maha AlQroon
-* English Voiceover: Asmaa Alrefae
+* __Arabic Voiceover By Maha AlQroon__: https://youtu.be/UMedWFQqY4Q
+* __English Voiceover By Asmaa Alrefae__: https://youtu.be/5YVrcXaBURw
 
 __Orignal story Link__: http://www.dailytenminutes.com/2018/07/1-old-man-lived-in-village-moral-stories.html

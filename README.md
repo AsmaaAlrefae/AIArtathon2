@@ -28,5 +28,4 @@ Then we combined all the clips and add the voiceover.
 * Arabic Voiceover: Maha AlQroon
 * English Voiceover: Asmaa Alrefae
 
-__Orignal story Link_ : 
-http://www.dailytenminutes.com/2018/07/1-old-man-lived-in-village-moral-stories.html
+__Orignal story Link__: http://www.dailytenminutes.com/2018/07/1-old-man-lived-in-village-moral-stories.html

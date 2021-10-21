@@ -6,7 +6,7 @@
 By:
 
 * Maha AlQroon (@MahaQ3)- AI expert
-* Asmaa Alrefae - AI expert
+* Asmaa Alrefae (@AsmaaAlrefae)- AI expert
 
 
 __Goal__ : 

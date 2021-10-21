@@ -1,6 +1,6 @@
 # AIArtathon 2.0
 
-<img src="https://github.com/adweahie/AIArtathon/blob/master/DeepDreamOutPut.jpeg?raw=true" style="float: left; margin: 20px; height: 55px">
+<img src="https://github.com/AsmaaAlrefae/AIArtathon2/blob/main/End%20Image.png?raw=true" style="float: left; margin: 20px; height: 55px">
 
 
 By:

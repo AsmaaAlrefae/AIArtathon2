@@ -13,7 +13,7 @@ __Goal__ :
 To create a vedio story using AI.
 
 
-We used __Text to Image tool that is Based on CLIP + FFT from Lucent and made by Vadim Epstein__ to create artificial artwork from the story _Old Man Lived in the Village_, by feeding the tool with sentences and letting it create the of the final video.
+We used __Text to Image tool that is Based on CLIP + FFT from Lucent and made by Vadim Epstein__ to create artificial artwork from the story __Old Man Lived in the Village__ , by feeding the tool with sentences and letting it create the of the final video.
 
 The following sentences used generate the clips. The length for each clip was 0.12 seconds.
 

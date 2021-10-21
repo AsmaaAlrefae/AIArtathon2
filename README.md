@@ -41,8 +41,8 @@ __References__:
 *__Vadim Epstein Projcet__: https://github.com/eps696/aphantasia
 
 
-* https://vimeo.com/573533102
+*__https://vimeo.com/573533102
 
 
-* "Aphantasia is the inability to visualize mental images, the deprivation of visual dreams
+*"__Aphantasia__: is the inability to visualize mental images, the deprivation of visual dreams
 

@@ -1,4 +1,6 @@
-# Imaginary Stories Using AI _AIArtathon 2.0
+# Imaginary Stories Using AI
+
+__AIArtathon 2.0__
 
 <img src="https://github.com/AsmaaAlrefae/AIArtathon2/blob/main/Final%20End%20Image.png?raw=true" style="float: left; margin: 20px; height: 55px" img style="height; 200px width; 200px">
 

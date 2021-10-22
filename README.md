@@ -22,6 +22,7 @@ The following sentences used generate the clips. The length for each clip was 0.
 * Old man unfortunate and out of luck. 
 * Old man alone.
 * Old man Birthday.
+* Old man Happy. Happy people in the village
 
 Then we combined all the clips and add the voiceover.
 

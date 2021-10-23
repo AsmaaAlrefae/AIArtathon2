@@ -33,6 +33,7 @@ Then we combined all the clips and add the voiceover.
 
 *__Final Clip - Arabic Voiceover By Maha AlQroon__: https://youtu.be/UMedWFQqY4Q
 
+
 *__Orignal story Link__: http://www.dailytenminutes.com/2018/07/1-old-man-lived-in-village-moral-stories.html
 
 
@@ -42,11 +43,10 @@ Then we combined all the clips and add the voiceover.
 __References__: 
 
 
-*__Jabberwokk__:https://vimeo.com/573533102
 
+*Jabberwokk :https://vimeo.com/573533102
 
-*__Vadim Epstein Projcet__: https://github.com/eps696/aphantasia
+*Vadim Epstein Projcet: https://github.com/eps696/aphantasia
 
-
-*"__Aphantasia__: is the inability to visualize mental images, the deprivation of visual dreams"
+*"Aphantasia: is the inability to visualize mental images, the deprivation of visual dreams"
 
